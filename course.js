@@ -60,4 +60,4 @@ let luiz = Record("Luiz", 4, [5.5, 4.0, 3.5]);
 //console.log(camila.average());
 //console.log(luiz.absencesPlus());
 //console.log(course.approved(camila));
-//console.log(course.approvedList(course.students));
+console.log(course.approvedList(course.students));
